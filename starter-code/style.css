@@ -8,7 +8,9 @@
 		Add the rgb(2, 132, 130) to your level one heading (h1).
 		Add color: #ffd700 to your level two heading (h2).
 		A good way to find your color value is by doing a Google search with <color name> hex code or <color name> rgb color.*/
-
+img {  height:199px;
+				width:111px;
+			}
 footer {		background-color: #808080;
 		width: 100%;
 		display: block;
